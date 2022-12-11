@@ -4,11 +4,11 @@ translate pt_br strings:
 
     # game/scripts/main.rpy:61
     old "Cheat Mode!"
-    new ""
+    new "Modo Trapaça!"
 
     # game/scripts/main.rpy:86
     old "Hotel Upgrades"
-    new ""
+    new "Melhorias do Hotel"
 
     # game/scripts/main.rpy:92
     old "Elves"
@@ -36,7 +36,7 @@ translate pt_br strings:
 
     # game/scripts/main.rpy:144
     old "Bar Upgrades"
-    new ""
+    new "Melhorias do Bar"
 
     # game/scripts/main.rpy:145
     old "Surround Sound System"
@@ -84,7 +84,7 @@ translate pt_br strings:
 
     # game/scripts/main.rpy:161
     old "Bar Music"
-    new ""
+    new "Músicas do Bar"
 
     # game/scripts/main.rpy:215
     old "Tweak"
@@ -100,7 +100,7 @@ translate pt_br strings:
 
     # game/scripts/main.rpy:252
     old "Show"
-    new ""
+    new "Mostrar"
 
     # game/scripts/main.rpy:253
     old "Outfits"
@@ -140,33 +140,4 @@ translate pt_br strings:
 
     # game/scripts/main.rpy:465
     old "Time of day"
-    new ""
-
-    # game/scripts/main.rpy:469
-    old "Morning"
-    new ""
-
-    # game/scripts/main.rpy:476
-    old "Noon"
-    new ""
-
-    # game/scripts/main.rpy:483
-    old "Afternoon"
-    new ""
-
-    # game/scripts/main.rpy:490
-    old "Evening"
-    new ""
-
-    # game/scripts/main.rpy:505
-    old "Owned"
-    new ""
-
-    # game/scripts/main.rpy:505
-    old "Not owned"
-    new ""
-
-    # game/scripts/main.rpy:537
-    old "Needs Sanctuary"
-    new ""
-
+    new "Horário"

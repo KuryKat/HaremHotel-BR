@@ -4,5 +4,4 @@ translate pt_br strings:
 
     # game/scripts/gallery.rpy:244
     old "Others"
-    new ""
-
+    new "Outros"

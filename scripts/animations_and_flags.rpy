@@ -4,29 +4,28 @@ translate pt_br strings:
 
     # game/scripts/animations_and_flags.rpy:6
     old "Sun"
-    new ""
+    new "Dom"
 
     # game/scripts/animations_and_flags.rpy:6
     old "Mon"
-    new ""
+    new "Seg"
 
     # game/scripts/animations_and_flags.rpy:6
     old "Tue"
-    new ""
+    new "Ter"
 
     # game/scripts/animations_and_flags.rpy:6
     old "Wed"
-    new ""
+    new "Qua"
 
     # game/scripts/animations_and_flags.rpy:6
     old "Thu"
-    new ""
+    new "Qui"
 
     # game/scripts/animations_and_flags.rpy:6
     old "Fri"
-    new ""
+    new "Sex"
 
     # game/scripts/animations_and_flags.rpy:6
     old "Sat"
-    new ""
-
+    new "Sab"

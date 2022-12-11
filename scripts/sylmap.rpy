@@ -64,5 +64,4 @@ translate pt_br strings:
 
     # game/scripts/sylmap.rpy:58
     old "Syl'anar Map"
-    new ""
-
+    new "Mapa de Syl'anar"
