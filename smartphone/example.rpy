@@ -4,7 +4,7 @@
 translate pt_br phone_messages_608c80f8:
 
     # c "What should I say to [girlname]?"
-    c ""
+    c "O que devo dizer a [girlname]?"
 
 # game/smartphone/example.rpy:71
 translate pt_br phone_calls_30917c9f:
